@@ -1,0 +1,2 @@
+# 编译方式
+# g++ mysqlclient.cpp `mysql_config --cflags --libs` -o mysqlclient
